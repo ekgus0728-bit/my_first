@@ -7,4 +7,6 @@ matplotlib
 plotly
 wordcloud
 networkx
+
 scipy
+pillow
